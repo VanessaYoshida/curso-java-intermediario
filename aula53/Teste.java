@@ -53,7 +53,6 @@ public class Teste {
 		case 7:
 			System.out.println("Domingo");
 			break;
-
 		}
 	}
 
@@ -80,7 +79,6 @@ public class Teste {
 		case DOMINGO:
 			System.out.println("Domingo");
 			break;
-
 		}
 	}
 
@@ -102,8 +100,5 @@ public class Teste {
 		imprimeDiaSemana(sabado);
 		imprimeDiaSemana(domingo);
 	}
-
-
-
 
 }
