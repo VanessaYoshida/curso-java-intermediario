@@ -6,8 +6,9 @@ Link do curso: http://loiane.training
 Playlist: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI
 
 ## Curso de Java Intermediário
-Esse módulo aborda conhecimento intermediários de Java, mas que ainda fazem parte de conhecimento básico que todo programador Java precisa aprender. 
-Esse módulo ensina: 
+Esse módulo aborda conhecimento intermediários de Java, mas que ainda fazem parte de conhecimentos básicos que os programadores Java precisam aprender. 
+
+Temas abordados: 
   - enumeradores (enum)
   - classes wrapper
   - auto-boxing e auto-unboxing
